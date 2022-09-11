@@ -1,0 +1,1 @@
+(()=>{const e=document.getElementById("btn");e.onclick=()=>{"green"===e.style.backgroundColor?(e.style.backgroundColor="red",e.innerText="Change Color to green!"):(e.style.backgroundColor="green",e.innerText="Change Color to red!")}})();
